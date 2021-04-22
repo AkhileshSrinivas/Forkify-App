@@ -1,6 +1,6 @@
 # Forkify-App
 
-![alt text](https://res.cloudinary.com/web-dev-app/image/upload/v1619069191/Screenshot_519_klttuz.png)
+![alt text](https://res.cloudinary.com/web-dev-app/image/upload/v1619072539/Screenshot_521_jaauwq.png)
 
 The Forkify Recipe App allows users to search for recipes using the Food2Fork API. Users can view the recipe along with the cook time and also increase or decrease the amount of servings they need. At this point the user can favorite the recipe. Favorite meals are stored in local storage so no database was required for this application.
 
