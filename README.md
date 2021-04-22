@@ -4,6 +4,8 @@
 
 The Forkify Recipe App allows users to search for recipes which interacts with the food2fork API to fetch and display recipe food data. This app uses modern JavaScript tools, such as Webpack to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. Users can view the recipe along with the cook time and also increase or decrease the amount of servings they need. At this point the user can favorite the recipe. Favorite meals are stored in local storage so no database was required for this application.
 
+# Live Demo
+
 The app is deployed on Netlify and available to use -
 [Forkify-App](https://forkify-akhilesh.netlify.app/)
 
